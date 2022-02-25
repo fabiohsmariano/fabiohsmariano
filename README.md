@@ -1,3 +1,3 @@
-Hi, I'm @fabiohsmariano, atualmente estou interessado e completamente focado na área da programação, cursando o 5º semestre da faculdade de Sistemas de Informação, me dedicando principalmente do backend
+Hi, I'm @fabiohsmariano, I am currently interested and completely focused on the area of programming, attending the 5th semester of the college of Information Systems, dedicating myself mainly to the backend
 
-Utilizo o github para deixar salvo e expor alguns projetos pessoais e também  dos cursos que realizei e irei realizar. 
+I use github to save and expose some personal projects and also the courses that I have taken and will take. 
